@@ -1,0 +1,1 @@
+npx expo install @expo-google-fonts/montserrat expo-font expo-app-loading
